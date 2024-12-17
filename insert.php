@@ -4,6 +4,7 @@ $username = 'dbtruong';
 $password = 'truong93540@';
 $db_name = 'utt';
 
+
 //Establishes the connection
 $conn = mysqli_init();
 mysqli_ssl_set($conn, NULL, NULL,"D:\study\DigiCertGlobalRootCA.crt.pem",NULL,NULL);
