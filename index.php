@@ -75,7 +75,7 @@ ini_set('display_errors', '0');
             <div class="container__information">
                 <div class="container__information--col">
                     <div class="container__information--row"> 
-                        <div class="container__information--title">Mã Sinh Viên:</div>
+                        <div class="container__information--title">id sinh vien:</div>
                         <div class="container__information--id"><?php echo $row['Student_id'] ?></div>
                     </div>
                     <div class="container__information--row"> 
